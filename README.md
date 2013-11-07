@@ -13,6 +13,9 @@ npm install home-dir --save
 
 ```javascript
 var homeDir = require('home-dir');
-
 console.log(homeDir()); // Outputs full path to your home directory
+
+// OR
+
+var homeDir = require('home-dir').directory;
 ```
