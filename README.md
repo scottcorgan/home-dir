@@ -24,5 +24,3 @@ console.log(dir) // OUTPUTS: /(HOME)/path/to/somewhere
 
 var homeDir = require('home-dir').directory;
 ```
-
-With a sub directory
