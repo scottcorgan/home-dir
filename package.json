@@ -1,10 +1,10 @@
 {
   "name": "home-dir",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Get home directory path on any platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Test\" && exit 1"
+    "test": "echo 'hey!'"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "path"
   ],
   "author": "Scott Corgan",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/scottcorgan/home-dir/issues"
   }
